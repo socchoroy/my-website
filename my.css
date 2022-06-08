@@ -69,3 +69,10 @@ body
     word-spacing: 3px;
     font-family: cursive;
 }
+.nothing
+{
+    color: cyan;
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
