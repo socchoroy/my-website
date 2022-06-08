@@ -1,0 +1,71 @@
+body
+{
+    background-color: antiquewhite;
+    text-align: center;
+    background-image: url("https://images.ctfassets.net/u0haasspfa6q/5anrKPrBjFkQOGIowyYEFu/0af93dd82909934bf5938002ebf80858/best_landscape_photography_apps");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+.first
+{
+ text-align: center;
+ font-family: cursive;
+ font-weight: bold;
+ font-size: 50px;
+ color: crimson;
+ 
+
+}
+.two
+{
+    font-family: cursive;
+    font-weight: bold;
+     color:rgb(127, 168, 255);
+     font-size: 30px;
+     
+
+}
+.Three
+{
+    font-family: cursive;
+    font-weight: initial;
+    color: rgb(155, 92, 105);
+    font-size: 30px;
+}
+.four
+{
+ 
+    font-family: cursive;
+ 
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    color: rgb(22, 22, 126);
+}
+.five
+
+{
+    font-family: cursive;
+ word-spacing: 3px;
+    color: rgb(133, 20, 48);
+}
+.six
+{
+   color: rgb(39, 78, 13);
+   font-family: cursive;
+   word-spacing: 3px;
+}
+.seven
+{
+    color: rgb(206, 66, 10);
+    word-spacing: 3px;
+    font-family: cursive;
+}
+.eight
+{
+    color: brown;
+    word-spacing: 3px;
+    font-family: cursive;
+}
