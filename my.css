@@ -71,8 +71,8 @@ body
 }
 .nothing
 {
-    color: cyan;
+    color: rgb(243, 121, 7);
     font-family: cursive;
-    font-size: 30px;
+    font-size: 90px;
     text-align: center;
 }
